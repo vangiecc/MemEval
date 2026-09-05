@@ -284,31 +284,6 @@ MemEval/
 └── env.example         # Environment configuration template
 ```
 
-## Citation
-
-If you use MemEval in your research, please cite the associated EMNLP 2026
-paper:
-
-```bibtex
-@inproceedings{memeval2026,
-  title     = {<Paper Title>},
-  author    = {<Authors>},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods
-               in Natural Language Processing},
-  year      = {2026}
-}
-```
-
-The citation will be updated when the official publication metadata is
-available.
-
-## Documentation
-
-- `docs/COMMAND_CHEATSHEET.md` — command reference
-- `docs/architecture.md` — architecture and module boundaries
-- `docs/provenance.md` — reproducibility and provenance requirements
-- `data/README.md` — dataset and artifact lifecycle
-
 ## License
 
 See the repository license file for details.
